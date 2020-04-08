@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Cristiano Ronaldo",
+      "salary": "$33 Mn",
+      "department": "Football",
+      "id": "Unique-1"
+    },
+    {
+      "name": "Radamel Falcao",
+      "salary": "$7 Mn",
+      "department": "Football",
+      "id": "weqMUGr"
+    },
+    {
+      "name": "Pepp Guardiola",
+      "salary": "$20 Mn",
+      "department": "Management",
+      "id": "lLqrkd5"
+    },
+    {
+      "name": "Lebron James",
+      "salary": "$40 Mn",
+      "department": "Basketball",
+      "id": "0ZdS9Qr"
+    }
+  ]
+}
